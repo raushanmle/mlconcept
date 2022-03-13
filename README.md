@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner_head.png](./images/banner_head.png)
+![banner_head.png](./banner_head.png)
 
 
 <hr>
