@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+my-self+Raushan;A+Data+Science+Professional+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+myself+Raushan;A+Data+Science+Professional+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵">
 </p>
 
 <hr>
@@ -39,7 +39,7 @@ My-self Raushan Kumar, an energetic professional with a comprehensive background
 <hr>
 
 ```
- “ Believe in your self. This is the wheel of time and it'll change because change is permanent.”
+ “ Believe in yourself. This is the wheel of time and it'll change because change is permanent.”
                                                         ― An optimistic Coder
 ```
 
