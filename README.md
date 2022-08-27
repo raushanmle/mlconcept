@@ -13,7 +13,7 @@
 
 ## About
 
-Myself Raushan Kumar, an energetic professional with a comprehensive background in analytics. Ability to handle multiple responsibilities, set priorities, communicate ideas to others, and respond positively to demanding situations.Experience in statistical tools and a keen communicator with strong problem solving, planning, presentation and people management skills.
+Myself Raushan Kumar, an energetic professional with a comprehensive background in analytics. Ability to handle multiple responsibilities, set priorities, communicate ideas, and respond positively to demanding situations. Experience in statistical tools and a keen communicator with strong problem solving, planning, presentation and people management skills.
 
 <table>
   <tr>
